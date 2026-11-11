@@ -1,0 +1,5 @@
+[sqlserver]
+server   = mcs16-sql
+database = dc00mes
+uid      = DC00MES
+pwd      = CHANGE_ME
